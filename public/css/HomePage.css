@@ -5,6 +5,7 @@
 }
 body {
     font-family: Arial, sans-serif;
+    background-color: #c0cfff;
 }
 .navbar {
     background-color: #1b1533;
@@ -37,4 +38,22 @@ body {
 
 .navbar a:hover svg {
     fill: #1b1533;
+}
+
+/* Change SVG stroke color on hover */
+.navbar a:hover svg * {
+    stroke: #1b1533; /* New stroke color */
+    fill: #1b1533;
+}
+
+.center-title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 55px;
+    min-height: 75vh;
+    text-align: center; 
+    flex-wrap: wrap; 
+    padding: 10px;
+    word-break: break-word;  
 }
