@@ -1,4 +1,4 @@
-![Subview](https://github.com/user-attachments/assets/65b5879c-daac-43f9-b6d3-6c35d368f45c)![After the data submit](https://github.com/user-attachments/assets/7bddcc8f-393d-4f07-b6a3-3ae4f32a4b00)![Othe example of Add User](https://github.com/user-attachments/assets/dfd73b53-1f03-4e4e-8c5e-397215ece461)![UpperCase Rule](https://github.com/user-attachments/assets/303737bb-5c37-4419-aed0-470f5de2f12c)<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
 <a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
